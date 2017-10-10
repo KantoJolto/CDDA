@@ -1,0 +1,4 @@
+v0.0 Initial release. Updated readme with safer, more useful installation processes
+Updated content list with complete list of all new additions.
+
+v0.1 Fixed issue with little debbie snacks not working due to faulty comestible type [SNACK, instead of FOOD]
