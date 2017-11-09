@@ -18,4 +18,4 @@ To add my mod to an existing world, just edit the mods.json file in your save fo
 
 That's located in your root folder i.e. CDDA/save/Quahog/mods.json
 
-Version number: 0.1 [alpha release]
+Version number: 0.3 [alpha release]
